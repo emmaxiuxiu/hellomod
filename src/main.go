@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/emmaxiuxiu/hola/utils"
+	"github.com/emmaxiuxiu/hola/src/utils"
 )
 
 //SayHello function
